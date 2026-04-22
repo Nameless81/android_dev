@@ -32,3 +32,17 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Игнорировать логи и конфиги IDE
+.history
+.idea/
+*.iml
